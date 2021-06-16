@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpletain&count_bg=%2300FF8C&title_bg=%23555555&icon=&icon_color=%23E50505&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pletain)](https://github.com/pletain/github-readme-stats)
 <!--
 **pletain/pletain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
