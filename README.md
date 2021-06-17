@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpletain&count_bg=%2300FF8C&title_bg=%23555555&icon=&icon_color=%23E50505&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
