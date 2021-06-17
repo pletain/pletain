@@ -1,5 +1,8 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg? **Pletax_xi**  
-url=https%3A%2F%2Fgithub.com%2Fpletain&count_bg=%2300FF8C&title_bg=%23555555&icon=&icon_color=%23E50505&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ <div align=center>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg? url=https%3A%2F%2Fgithub.com%2Fpletain&count_bg=%2300FF8C&title_bg=%23555555&icon=&icon_color=%23E50505&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  </div>
+
+**Pletax_xi**
 =========================
 
 ***⚒️ I'm interested in 🛠***
