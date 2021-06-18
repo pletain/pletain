@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=pletax_xi&fontSize=90)
+==============================================================================================================================
 
 
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpletain&count_bg=%235E74F9&title_bg=%23555555&icon=deno.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) **Pletax_xi** 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpletain&count_bg=%235E74F9&title_bg=%23555555&icon=deno.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 =========================
 
 ***⚒️ I'm interested in 🛠***
