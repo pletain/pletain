@@ -21,7 +21,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pletain&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pletain&layout=compact&hide=html&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pletain&layout=compact&hide=html&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
