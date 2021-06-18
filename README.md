@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#40E0D0=300&section=header&text=pletax_xi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=40E0D0&height=200&section=header&text=pletax_xi&fontSize=90)
 ==============================================================================================================================
 
 
