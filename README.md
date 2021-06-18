@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpletain&count_bg=%235E74F9&title_bg=%23555555&icon=deno.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![header](https://capsule-render.vercel.app/api?type=wavinge&color=40E0D0&height=200&section=header&text=pletax_xi&fontSize=90&animation=scaleIn)
-==============================================================================================================================
+![header](https://capsule-render.vercel.app/api?type=wavinge&color=40E0D0&height=200&section=header&text=pletax_xi&fontSize=90&animation=scaleIn&fontColor=E6E6FA)
+
 
 ***⚒️ I'm interested in 🛠***
 -----------------------------
