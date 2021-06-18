@@ -27,7 +27,7 @@ SNS
 ----
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/kthnote/)](https://www.facebook.com/kthnote)
 [![Dev life Badge](https://img.shields.io/badge/-Dev-E4405F)](https://www.instagram.com/dev_pletaxi/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagaram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/dev_pletaxi/)](https://www.instagram.com/dev_pletaxi/)
+[![Instagram Badge](https://img.shields.io/badge/-Dev_Instagaram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/dev_pletaxi/)](https://www.instagram.com/dev_pletaxi/)
 **daily life:**
 [![Instagram Badge](https://img.shields.io/badge/-Instagaram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/pletax_xi/)](https://www.instagram.com/pletax_xi/)
 
