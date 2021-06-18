@@ -23,7 +23,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pletain&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pletain&layout=compact&hide=html&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+SNS
+----
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/kthnote/)](https://www.facebook.com/kthnote)
 <!--
 **pletain/pletain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
