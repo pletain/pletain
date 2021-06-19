@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/GraphQl-E434AA?style=flat-square&logo=GraphQl&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+[!C++](http://img.shields.io/badge/language-swift-orange&logo=C++&logoColor=00599C)
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 [C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
