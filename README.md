@@ -13,10 +13,7 @@
 <img src="https://img.shields.io/badge/GraphQl-E434AA?style=flat-square&logo=GraphQl&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-[!C++](http://img.shields.io/badge/language-C++-orange&logo=C++&logoColor=00599C)
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">C++</svg>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
-[C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
