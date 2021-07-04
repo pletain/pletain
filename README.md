@@ -1,8 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpletain&count_bg=%235E74F9&title_bg=%23555555&icon=deno.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00fa9a&height=200&section=header&text=pletax_xi&fontSize=75&animation=fadeIn&fontColor=FFFFFF)
 
-***⚒️ Main Stack 🛠***
+***⚒️ Tech Stack 🛠***
 -----------------------------
+*** Main ***
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -11,12 +12,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
- 
-**⚒️ Skills && Tools 🛠**
------------------------------
-
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=Puppeteer&logoColor=white"/></a>
-
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GraphQl-E434AA?style=flat-square&logo=GraphQl&logoColor=white"/></a>
