@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00fa9a&height=200&section=header&text=pletax_xi&fontSize=75&animation=fadeIn&fontColor=FFFFFF)
 
 <div align ="center">
-***⚒️ Tech Stack 🛠***
+<strong>⚒️ Tech Stack 🛠</strong>
 -----------------------------
 
 Main
