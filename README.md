@@ -2,11 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00fa9a&height=200&section=header&text=pletax_xi&fontSize=75&animation=fadeIn&fontColor=FFFFFF)
 
 <div align ="center">
-<strong>⚒️ Tech Stack 🛠</strong>
------------------------------
+⚒️ Tech Stack 🛠
+----------------------------------------------
 
 Main
----------------------------
+----------------------------
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
