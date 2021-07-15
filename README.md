@@ -3,8 +3,6 @@
 
 <div align ="center">
   <h1>⚒️ Tech Stack 🛠</h1>
-
-  
   <h2> <input type="button">Main</h2>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
