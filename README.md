@@ -20,8 +20,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<br><br><br><br><br><br>
-
+<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pletain&show_icons=true&theme=react)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pletain&layout=compact&hide=html&langs_count=11&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 </div>
