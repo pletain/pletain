@@ -1,8 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpletain&count_bg=%235E74F9&title_bg=%23555555&icon=deno.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-![header](https://capsule-render.vercel.app/api?type=waving& color=61dafb&height=200&section=header&text=pletax_xi&fontSize=75&animation=fadeIn&fontColor=20232a)
-  
-  
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=200&section=header&text=pletax_xi&fontSize=75&animation=fadeIn&fontColor=20232a)
+
 <div align ="center">   
   <h1>⚒️ Tech Stack 🛠</h1>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
@@ -23,30 +21,5 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <br><br>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pletain&show_icons=true&theme=react)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pletain&layout=compact&hide=html&langs_count=11&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-    
- 
-📱 SNS
-----
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/kthnote/)](https://www.facebook.com/kthnote)
-[![Instagram Badge](https://img.shields.io/badge/-Dev_Instagaram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/dev_pletaxi/)](https://www.instagram.com/dev_pletaxi/)
-[![Instagram Badge](https://img.shields.io/badge/-Daily_Instagaram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/pletax_xi/)](https://www.instagram.com/pletax_xi/)
- 
-
-<!--
-**pletain/pletain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
