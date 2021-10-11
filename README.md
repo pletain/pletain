@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpletain&count_bg=%235E74F9&title_bg=%23555555&icon=deno.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-![header](https://capsule-render.vercel.app/api?type=waving&color=222424&height=200&section=header&text=pletax_xi&fontSize=75&animation=fadeIn&fontColor=0065d9)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&text=pletax_xi&fontSize=75&animation=fadeIn&fontColor=0065d9)
         
 <div align ="center">     
   <h1>⚒️ Tech Stack 🛠</h1>
