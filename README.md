@@ -24,6 +24,8 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pletain&show_icons=true&bg_color=DEG,b3dbff,5bf5c1&text_color=ffffff&icon_color=97c7fc&title_color=1A9EDB&custom_title=Pletain)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pletain&layout=compact&hide=html&langs_count=11&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pletain)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
