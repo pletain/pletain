@@ -24,10 +24,10 @@
      
      
 </div>  
-
+c
 <p align ="center"> 
          
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lavin&show_icons=true&bg_color=DEG,b3dbff,5bf5c1&text_color=ffffff&icon_color=97c7fc&title_color=1A9EDB&custom_title=Pletain)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pletain&show_icons=true&bg_color=DEG,b3dbff,5bf5c1&text_color=ffffff&icon_color=97c7fc&title_color=1A9EDB&custom_title=Pletain)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pletain&layout=compact&hide=html&langs_count=8&card_width=250&bg_color=DEG,b3dbff,5bf5c1&text_color=ffffff&icon_color=97c7fc&title_color=1A9EDB&)](https://github.com/anuraghazra/github-readme-stats)
    
 </p>
