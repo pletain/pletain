@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flavin&count_bg=%235E74F9&title_bg=%23555555&icon=deno.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpletain&count_bg=%235E74F9&title_bg=%23555555&icon=deno.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 ![header](https://capsule-render.vercel.app/api?type=waving&&&color=0:b3dbff,100:12db98&height=150&section=header&text=lavin&fontSize=75&animation=fadeIn&fontColor=ebf5ff)
                                                               
 <div align ="left">   
@@ -26,14 +26,14 @@
 </div>  
 <p align ="center"> 
          
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavin&show_icons=true&bg_color=DEG,b3dbff,5bf5c1&text_color=ffffff&icon_color=97c7fc&title_color=1A9EDB&custom_title=lavin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavin&layout=compact&hide=html&langs_count=8&card_width=250&bg_color=DEG,b3dbff,5bf5c1&text_color=ffffff&icon_color=97c7fc&title_color=1A9EDB&)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pletain&show_icons=true&bg_color=DEG,b3dbff,5bf5c1&text_color=ffffff&icon_color=97c7fc&title_color=1A9EDB&custom_title=pletain)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pletain&layout=compact&hide=html&langs_count=8&card_width=250&bg_color=DEG,b3dbff,5bf5c1&text_color=ffffff&icon_color=97c7fc&title_color=1A9EDB&)](https://github.com/anuraghazra/github-readme-stats)
    
 </p>
 <!-- 
 [![wakatime](https://wakatime.com/badge/user/ddc8cb60-e944-4b22-8c50-f7f5d2a651bc.svg)](https://wakatime.com/@ddc8cb60-e944-4b22-8c50-f7f5d2a651bc)
 <br/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lavin&bg_color=DEG,b3dbff,5bf5c1&text_color=ffffff&icon_color=97c7fc&title_color=1A9EDB)](https://github.com/anuraghazra/github-readme-stats)  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pletain&bg_color=DEG,b3dbff,5bf5c1&text_color=ffffff&icon_color=97c7fc&title_color=1A9EDB)](https://github.com/anuraghazra/github-readme-stats)  
  -->
 <!-- 📱 SNS
 ----
@@ -43,7 +43,7 @@
   
    -->
 <!--
-**lavin/lavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pletain/pletain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
